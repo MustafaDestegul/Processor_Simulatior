@@ -1,5 +1,6 @@
 # Processor_Simulatior
- Simulating the processes running on a processor
+
+
                  SIMULATING THE PROCESSES RUNNING ON A PROCESSOR
 
 I was asked to simulate the processes running on a processor. Each process will have the following
