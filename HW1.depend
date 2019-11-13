@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1573673025 source:c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\main.cpp
+	<iostream>
+	<fstream>
+	"Stack.h"
+	"Stack.cpp"
+	"Quene.h"
+	"Quene.cpp"
+	"Process.h"
+	"Process.cpp"
+	<bits/stdc++.h>
+
+1572198823 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\stackheader.h
+
+1572199165 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\stachsource.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"StackHeader.h"
+
+1573657470 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\quene.h
+
+1573669030 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\quene.cpp
+	<iostream>
+	"Quene.h"
+	<bits/stdc++.h>
+
+1572290692 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\takenprocesses.h
+
+1572290658 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\takenprocesses.cpp
+	<iostream>
+	"TakenProcesses.h"
+
+1573657457 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\stack.h
+
+1573589450 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\stack.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Stack.h"
+
+1572343840 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\running_process.h
+
+1572343753 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\running_process.cpp
+	<iostream>
+	"Running_Process.h"
+
+1572339329 source:c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\running_process.cpp
+	<iostream>
+	"Running_Process.h"
+
+1572637419 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\process.h
+
+1572637741 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\process.cpp
+	<iostream>
+	"Process.h"
+
+1572632910 source:c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\calculations.cpp
+	"Calculations.h"
+	"Process.h"
+
+1572633254 c:\users\klas\desktop\ee441_c++\ee441_hw1\hw1\hw1\calculations.h
+	"Process.h"
+

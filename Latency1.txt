@@ -1,0 +1,5 @@
+The latency for P=4   is30
+The latency for P=2   is23
+The latency for P=5   is106
+The latency for P=1   is127
+The latency for P=3   is208
