@@ -1,4 +1,4 @@
-# Processor_Simulatior
+# Processor_Simulator
 
 
                  SIMULATING THE PROCESSES RUNNING ON A PROCESSOR
